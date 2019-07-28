@@ -1,0 +1,6 @@
+[kubernetes-master-nodes]
+kubernetes-master.mstakx.test ansible_host=10.128.0.2
+
+[kubernetes-worker-nodes]
+kubernetes-worker1.mstakx.test ansible_host=10.128.0.3
+kubernetes-worker2.mstakx.test ansible_host=10.128.0.4
